@@ -861,7 +861,7 @@ ${metadata.desc}
 *『𝐌𝐄𝐆𝐀𝐓𝐑𝐎𝐍 𝐁𝐎𝐓 is CONNECTED』*
 
      
-║❒Creator: *༒𝐃𝚫𝚳𝚯𝚴𖤍༒*
+║❒Creator: *𝔖𝔢𝔨𝔦𝔯𝔶𝔲𝔲𝔱𝔢𝔦*
 ║❒Prefix : [ ${prefixe} ]
 ║❒Mode :${md}
 ║❒Created on : *25.3.2024*
@@ -872,13 +872,13 @@ ${metadata.desc}
  
 
 
-║❒ *JOIN OUR WhatsApp Gʀᴏᴜᴘ*
-https://chat.whatsapp.com/HSChig1YPPQIDEtpvzMBuo
+║❒ *Reach out to me at⬇️*
+https://wa.me/224620780851
 
  
 
 
-              *𝐌𝐄𝐆𝐀𝐓𝐑𝐎𝐍-𝐁𝐎𝐓*`;
+              *𝔖𝔢𝔨𝔦𝔯𝔶𝔲𝔲𝔱𝔢𝔦-𝔅𝔬𝔱*`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
             }
